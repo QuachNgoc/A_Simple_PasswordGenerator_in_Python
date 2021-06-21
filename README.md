@@ -5,4 +5,4 @@
 
 "How many numbers would you like?"
 
-Run the code in Visual Studio.
+Run .sln in Visual Studio.
